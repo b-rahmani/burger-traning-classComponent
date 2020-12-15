@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/burger-traning-classComponent/static/css/main.d9bd4c53.chunk.css",
+    "main.js": "/burger-traning-classComponent/static/js/main.9eed8def.chunk.js",
+    "main.js.map": "/burger-traning-classComponent/static/js/main.9eed8def.chunk.js.map",
+    "runtime-main.js": "/burger-traning-classComponent/static/js/runtime-main.9697aff1.js",
+    "runtime-main.js.map": "/burger-traning-classComponent/static/js/runtime-main.9697aff1.js.map",
+    "static/js/2.65cb1953.chunk.js": "/burger-traning-classComponent/static/js/2.65cb1953.chunk.js",
+    "static/js/2.65cb1953.chunk.js.map": "/burger-traning-classComponent/static/js/2.65cb1953.chunk.js.map",
+    "static/css/3.f5d2d1f4.chunk.css": "/burger-traning-classComponent/static/css/3.f5d2d1f4.chunk.css",
+    "static/js/3.471f63ad.chunk.js": "/burger-traning-classComponent/static/js/3.471f63ad.chunk.js",
+    "static/js/3.471f63ad.chunk.js.map": "/burger-traning-classComponent/static/js/3.471f63ad.chunk.js.map",
+    "static/css/4.5f4d408e.chunk.css": "/burger-traning-classComponent/static/css/4.5f4d408e.chunk.css",
+    "static/js/4.6ede9dd8.chunk.js": "/burger-traning-classComponent/static/js/4.6ede9dd8.chunk.js",
+    "static/js/4.6ede9dd8.chunk.js.map": "/burger-traning-classComponent/static/js/4.6ede9dd8.chunk.js.map",
+    "static/css/5.9022949d.chunk.css": "/burger-traning-classComponent/static/css/5.9022949d.chunk.css",
+    "static/js/5.8dfac274.chunk.js": "/burger-traning-classComponent/static/js/5.8dfac274.chunk.js",
+    "static/js/5.8dfac274.chunk.js.map": "/burger-traning-classComponent/static/js/5.8dfac274.chunk.js.map",
+    "static/js/6.c1923c8b.chunk.js": "/burger-traning-classComponent/static/js/6.c1923c8b.chunk.js",
+    "static/js/6.c1923c8b.chunk.js.map": "/burger-traning-classComponent/static/js/6.c1923c8b.chunk.js.map",
+    "index.html": "/burger-traning-classComponent/index.html",
+    "static/css/3.f5d2d1f4.chunk.css.map": "/burger-traning-classComponent/static/css/3.f5d2d1f4.chunk.css.map",
+    "static/css/4.5f4d408e.chunk.css.map": "/burger-traning-classComponent/static/css/4.5f4d408e.chunk.css.map",
+    "static/css/5.9022949d.chunk.css.map": "/burger-traning-classComponent/static/css/5.9022949d.chunk.css.map",
+    "static/css/main.d9bd4c53.chunk.css.map": "/burger-traning-classComponent/static/css/main.d9bd4c53.chunk.css.map",
+    "static/js/2.65cb1953.chunk.js.LICENSE.txt": "/burger-traning-classComponent/static/js/2.65cb1953.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.ec69c7f6.png": "/burger-traning-classComponent/static/media/burger-logo.ec69c7f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9697aff1.js",
+    "static/js/2.65cb1953.chunk.js",
+    "static/css/main.d9bd4c53.chunk.css",
+    "static/js/main.9eed8def.chunk.js"
+  ]
+}
